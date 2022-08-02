@@ -1,3 +1,0 @@
-create a .env file 
-add PORT =  any four digit number
-add db = mongodb local url or atlas url
